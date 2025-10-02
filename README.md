@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Mathews Lima!
 - 🌱 Estudando Java, Html, Css.
-- 😄 Pronouns: Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathews-Lima&show_icons=true&theme=holi&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathews-Lima&layout=compact&theme=holi)
